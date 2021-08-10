@@ -31,17 +31,16 @@
                 </v-col>
                 <v-col class="mt-4"> Begin with an existing account </v-col>
                 <v-col class="mt-4">
-                  <v-btn icon>
+                  <v-btn icon v-on:click="metamask()">
                     <v-img
-                    :src="require('../assets/metamask.svg')"
-                    class="my-3"
-                    contain
-                    height="70"
-                  />
+                      :src="require('../assets/metamask.svg')"
+                      class="my-3"
+                      contain
+                      height="70"
+                    />
                   </v-btn>
                 </v-col>
               </div>
-              <!--  -->
             </v-sheet>
           </v-col>
         </v-row>
@@ -51,7 +50,22 @@
 </template>
 
 <script>
-export default {};
+export default {
+  created: function () {
+    if (localStorage.getItem("address") != null) {
+      this.$router.push("/");
+    }
+  },
+  components: {},
+  data() {
+    return {};
+  },
+  methods: {
+    metamask() {
+      this.$router.push("metamask-auth");
+    },
+  },
+};
 </script>
 
 <style scoped>
