@@ -2,7 +2,13 @@
   <v-app id="inspire">
     <v-app-bar app class="white">
       <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
-      <v-toolbar-title><v-img style="margin-left: -1rem !important" :src="require('../assets/yumeket.svg')" contain height="30" /></v-toolbar-title>
+      <v-toolbar-title
+        ><v-img
+          style="margin-left: -1rem !important"
+          :src="require('../assets/yumeket.svg')"
+          contain
+          height="30"
+      /></v-toolbar-title>
     </v-app-bar>
 
     <v-navigation-drawer v-model="drawer" fixed temporary>

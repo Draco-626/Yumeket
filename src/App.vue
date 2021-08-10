@@ -17,6 +17,6 @@ export default {
 </script>
 <style>
 .v-application {
-  font-family: 'Cabin', sans-serif !important;
+  font-family: "Cabin", sans-serif !important;
 }
 </style>
