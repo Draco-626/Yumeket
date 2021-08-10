@@ -1,0 +1,145 @@
+.desktop1 {
+  background-color: white;
+  padding: 5px 458px 53px 341px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 10px;
+
+left: -721px;
+top: -50px;
+border-radius: 0px;
+}
+
+.logo {
+  width: 442.25px;
+  height: 100.41px;
+  margin-bottom: -15px;
+  margin-top: 10%;
+  top: 10%;
+  margin-left: 136px;
+}
+
+.spiceUpYourCreatingProcess {
+  font-family: "Meiryo";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 20px;
+  color: gray;
+  text-align: center;
+  margin-bottom: 80px;
+  margin-left: 177px;
+}
+
+.flexWrapperTwo {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("../assets/Rectangle.png");
+  margin-bottom: 20px;
+  margin-left: 119px;
+  padding: 0px 173px 0px 147px;
+  display: flex;
+  align-items: center;
+}
+
+.createAnAccount {
+  font-family: "Meiryo";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 40px;
+  color: white;
+  text-align: center;
+}
+
+.flexWrapperOne {
+  
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("../assets/Rectanglerec2.png");
+  margin-bottom: 68px;
+  margin-left: 116px;
+  padding: 0px 216px 0px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.login {
+  font-family: "Meiryo";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 40px;
+  color: #696969;
+  text-align: center;
+}
+
+.beginWithAnExistingAccount {
+  font-family: "Meiryo";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  color: #696969;
+  text-align: center;
+  margin-bottom: 12px;
+  margin-left: 252px;
+}
+
+.num11 {
+  width: 52px;
+  height: 39px;
+  margin-bottom: 31px;
+  margin-left: 330px;
+}
+
+.rectangle311 {
+  width: 565px;
+  height: 1px;
+  margin-bottom: 60px;
+  margin-left: 76px;
+}
+
+.relativeWrapperOne {
+  position: relative;
+}
+
+.privacyPolicy {
+  width: 217px;
+  font-family: "Meiryo";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  color: #586fe8;
+  text-align: center;
+  position: absolute;
+  left: calc(145% - 217px / 2);
+  top: -20px;
+}
+
+.termsOfService {
+  width: 270px;
+  font-family: "Meiryo";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  color: #586fe8;
+  text-align: center;
+  position: absolute;
+  left: calc(240% - 270px / 2);
+  top: -20px;
+}
+
+
+.aboutYumeket {
+  width: 248px;
+  font-family: "Meiryo";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 30px;
+  color: #586fe8;
+  text-align: center;
+  position: relative;
+  
+  top:calc(148% - 223px / 2);
+}
+a {
+  text-decoration: none;
+}
