@@ -19,7 +19,7 @@ const routes = [
   },
   {
     path: "/metamask-auth",
-    name: "Login",
+    name: "LoginMetamask",
     component: Metamask,
   },
   {
