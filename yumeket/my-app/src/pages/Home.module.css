@@ -1,0 +1,2024 @@
+.home {
+  background-color: white;
+  padding: 28px 17px 43px 35px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.flexWrapperThirteen {
+  margin-bottom: 80px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.vectorLeft1 {
+  width: 1.22%;
+  height: 29.79%;
+  margin-top: 17px;
+  margin-right: 24px;
+}
+
+.logo {
+  width: 140.8px;
+  height: 32px;
+  margin-top: 8px;
+  margin-right: 150.2px;
+}
+
+.flexWrapperEleven {
+  background-color: #f2f2f2;
+  margin-top: 7px;
+  margin-right: 191px;
+  border-radius: 4px;
+  padding: 9px 402px 1px 19px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.vectorSearch1 {
+  width: 17px;
+  height: 13px;
+  margin-top: 6px;
+  margin-right: 8px;
+}
+
+.searchWorks {
+  width: 76.64%;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  margin-top: 2%;
+  color: #bdbdbd;
+  align-self: stretch;
+}
+
+.flexWrapperTwelve {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/aae7279c-1ed6-4fb6-8516-0cc198da984f.png");
+  margin-right: 23px;
+  padding: 0.5px 24px 0px 18px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.postYourWork {
+  width: 83.19%;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 22px;
+  color: #4f4f4f;
+  align-self: stretch;
+  text-align: center;
+  margin-right: 7px;
+}
+
+.vectorSearch21 {
+  width: 13px;
+  height: 8px;
+  margin-top: 22px;
+}
+
+.vectorMail1 {
+  width: 1.51%;
+  height: 34.04%;
+  margin-top: 12px;
+  margin-right: 28px;
+}
+
+.vectorRing1 {
+  width: 1.37%;
+  height: 42.55%;
+  margin-top: 10px;
+  margin-right: 27px;
+}
+
+.rectangle {
+  width: 40px;
+  height: 40px;
+  margin-right: 6px;
+}
+
+.vector {
+  width: 0.86%;
+  height: 17.02%;
+  margin-top: 17px;
+}
+
+.flexWrapperTen {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/15a6fb7b-3937-4161-9ed5-141b7358e033.png");
+  margin-bottom: 38px;
+  margin-left: 52px;
+  border-radius: 15px;
+  padding: 0px 28px 2px 20px;
+  display: flex;
+  align-items: center;
+}
+
+.original {
+  width: 61px;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  color: white;
+  text-align: center;
+}
+
+.rectanglehrec141 {
+  width: 139px;
+  height: 6px;
+  margin-left: 54px;
+}
+
+.flexWrapperFourteen {
+  margin-bottom: 70px;
+  padding: 0 0 0 55px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.flexWrapperOne {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/083f52c2-47b8-4343-9216-6dad46c64053.png");
+  padding: 13px 25px 6px 12px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.illustrations {
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #333333;
+}
+
+.flexWrapperTwo {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/bc7af253-c4c7-4ad3-a04d-c88f90fc3d95.png");
+  margin-right: 5px;
+  padding: 13px 22px 4px 21px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.manga {
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #bdbdbd;
+}
+
+.flexWrapperThree {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/71d5aafb-a6eb-4a3f-88b2-8bdccd895c7d.png");
+  margin-right: 817px;
+  padding: 13px 25px 4px 16px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.flexWrapperFour {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/d83a962f-7b7c-4345-bc61-d58609cd0565.png");
+  margin-top: 10px;
+  margin-right: 44px;
+  padding: 4px 31px 17px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.all {
+  height: 10px;
+  width: 20px;
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  margin-top: 20%;
+  margin-bottom: 20%;
+  color: #333333;
+  display: flex;
+}
+
+.r18 {
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  color: #bdbdbd;
+  margin-top: 14px;
+}
+
+.flexWrapperFifteen {
+  margin-bottom: 12px;
+  padding: 0 0 0 54px;
+  display: flex;
+  align-items: center;
+}
+
+.worksByUsersYouAreFollowing {
+  width: 313px;
+  font-family: "Segoe UI";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #4f4f4f;
+  margin-right: 981px;
+}
+
+.seeAll {
+  width: 40px;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  color: #828282;
+}
+
+.flexWrapperSixteen {
+  margin-bottom: 4px;
+  padding: 0 0 0 54px;
+  display: flex;
+  align-items: center;
+}
+
+.flexWrapperFive {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/bb980509-723e-4b12-94da-882b17b8d69e.png");
+  margin-right: 1092px;
+  border-radius: 8px;
+  padding: 157.5px 4px 4.57px 156px;
+  position: relative;
+}
+
+.vectorTwo {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.vectorThree {
+  width: 10.87%;
+  height: 9.74%;
+  position: absolute;
+  left: 158px;
+  top: 159.5px;
+}
+
+.vec2 {
+  width: 54px;
+  height: 56px;
+  border-radius: 170px 170px 150px 150px;
+}
+
+.font3 {
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 22px;
+  color: #333333;
+  margin-bottom: 4px;
+  margin-left: 54px;
+}
+
+.flexWrapperSeventeen {
+  margin-bottom: 68px;
+  padding: 0 0 0 54px;
+  display: flex;
+  align-items: center;
+}
+
+.rectangleTwo {
+  width: 24px;
+  height: 24px;
+  margin-right: 14px;
+  border-radius: 12px;
+}
+
+.pixiv {
+  width: 70px;
+  font-family: "Segoe UI";
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 22px;
+  color: #333333;
+}
+
+.recommendedWorks {
+  width: 202px;
+  font-family: "Segoe UI";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #4f4f4f;
+  margin-bottom: 12px;
+  margin-left: 54px;
+}
+
+.flexWrapperSix {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/0f4c998a-11a3-4ed2-895e-e6d8e9f816b2.png");
+  margin-bottom: 4px;
+  margin-left: 54px;
+  border-radius: 8px;
+  padding: 157.5px 4px 4.57px 156px;
+  position: relative;
+}
+
+.flexWrapperEighteen {
+  margin-bottom: 119px;
+  padding: 0 0 0 54px;
+  display: flex;
+  align-items: center;
+}
+
+.rectangleThree {
+  width: 24px;
+  height: 24px;
+  margin-right: 4px;
+  border-radius: 12px;
+}
+
+.font2 {
+  width: 42px;
+  font-family: "Segoe UI";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 22px;
+  color: #333333;
+}
+
+.flexWrapperNineteen {
+  margin-bottom: 1px;
+  padding: 0 0 0 56px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.dailyRanking {
+  width: 81px;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  color: #828282;
+  margin-right: 1214px;
+}
+
+.seeAllTwo {
+  width: 40px;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  color: #828282;
+  margin-top: 9px;
+}
+
+.jul27thRanking {
+  width: 153px;
+  font-family: "Segoe UI";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  color: #333333;
+  margin-bottom: 12px;
+  margin-left: 56px;
+}
+
+.flexWrapperTwenty {
+  margin-bottom: 4px;
+  padding: 0 0 0 56px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.flexWrapperSeven {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/8e1587e6-0d98-48d9-96d7-f39bd490e055.png");
+  margin-right: 982px;
+  border-radius: 8px;
+  padding: 0 8px 4.57px 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.flexWrapperNine {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/d07dc2c5-3dc5-4bd8-95a7-ceb8b3d9796d.png");
+  margin-bottom: 206.5px;
+  border-radius: 56px;
+  padding: 0px 20px 0px 20px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.num1 {
+  height: 23px;
+  width: 9px;
+  font-family: "Segoe UI";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  color: white;
+  display: flex;
+}
+
+.flexWrapperEight {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/95c78bf3-9259-441b-9306-6894d52a589d.svg");
+  margin-left: 257px;
+  padding: 2px;
+  display: flex;
+  align-items: center;
+}
+
+.vectorFour {
+  flex: 1;
+  align-self: stretch;
+  object-fit: cover;
+}
+
+.vec1 {
+  width: 54px;
+  height: 56px;
+  margin-top: 131px;
+  border-radius: 170px 170px 150px 150px;
+}
+
+.num123 {
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 22px;
+  color: #333333;
+  margin-bottom: 4px;
+  margin-left: 56px;
+}
+
+.flexWrapperTwentyOne {
+  padding: 0 0 0 56px;
+  display: flex;
+  align-items: center;
+}
+
+.num121 {
+  width: 56px;
+  font-family: "Segoe UI";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 22px;
+  color: #333333;
+}
+
+/*
+.home {
+  background-color: white;
+  padding: 32px 25px 116px 35px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flexWrapperThirteen {
+  margin-bottom: 106px;
+  display: flex;
+  align-items: flex-start;
+}
+.vectorLeft1 {
+  width: 0.78%;
+  height: 29.17%;
+  margin-top: 13px;
+  margin-right: 24px;
+}
+.logo {
+  width: 140.8px;
+  height: 32px;
+  margin-top: 4px;
+  margin-right: 640.2px;
+}
+.flexWrapperOne {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/5751f263-8e4a-47e4-936c-53409d6af225.png");
+  margin-right: 496px;
+  padding: 9px 410px 17px 19px;
+  display: flex;
+  align-items: flex-start;
+}
+.vectorSearch1 {
+  width: 17px;
+  height: 13px;
+  margin-top: 6px;
+  margin-right: 8px;
+}
+.searchWorks {
+  width: 76.64%;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(189, 189, 189, 1);
+  align-self: stretch;
+}
+.flexWrapperTwo {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/2eaac6e7-934e-4eb8-9300-648cb1f005fa.png");
+  margin-right: 23px;
+  padding: 7px 24px 11px 18px;
+  display: flex;
+  align-items: flex-start;
+}
+.postYourWork {
+  width: 83.19%;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 22px;
+  color: rgba(79, 79, 79, 1);
+  align-self: stretch;
+  text-align: center;
+  margin-right: 7px;
+}
+.vectorSearch21 {
+  width: 13px;
+  height: 8px;
+  margin-top: 10px;
+}
+.vectorMail1 {
+  width: 0.96%;
+  height: 33.33%;
+  margin-top: 12px;
+  margin-right: 28px;
+}
+.vectorRing1 {
+  width: 0.87%;
+  height: 41.67%;
+  margin-top: 10px;
+  margin-right: 27px;
+}
+.rectangle {
+  width: 40px;
+  height: 40px;
+  margin-right: 6px;
+}
+.vector {
+  width: 0.55%;
+  height: 16.67%;
+  margin-top: 17px;
+}
+.flexWrapperTwelve {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/0bcee151-d441-4a0d-806a-cbec1edfb399.png");
+  margin-bottom: 36px;
+  margin-left: 416px;
+  border-radius: 5px;
+  padding: 11px 25px 7px 23px;
+  display: flex;
+  align-items: flex-start;
+}
+.original {
+  width: 61px;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  color: white;
+  text-align: center;
+}
+.rectanglehrec141 {
+  width: 139px;
+  height: 6px;
+  margin-left: 414px;
+}
+.flexWrapperFourteen {
+  margin-bottom: 68px;
+  padding: 0 0 0 415px;
+  display: flex;
+  align-items: flex-start;
+}
+.flexWrapperThree {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/3c3871c8-5fbf-4c02-8a81-25a6ad027704.png");
+  padding: 13px 25px 6px 12px;
+  display: flex;
+  align-items: flex-start;
+}
+.illustrations {
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  color: rgba(51, 51, 51, 1);
+}
+.flexWrapperFour {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/a6a36187-8bc5-47b3-a131-627ac2550d4e.png");
+  margin-right: 5px;
+  padding: 13px 22px 4px 21px;
+  display: flex;
+  align-items: flex-start;
+}
+.manga {
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  color: rgba(189, 189, 189, 1);
+}
+.flexWrapperFive {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/0a3086ae-e29a-4a40-96f6-eaa2a921eab0.png");
+  margin-right: 856px;
+  padding: 13px 25px 4px 16px;
+  display: flex;
+  align-items: flex-start;
+}
+.flexWrapperSix {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/5639a03a-ad0d-4e9e-922b-b3e2190d36ff.png");
+  margin-top: 5px;
+  margin-right: 32px;
+  padding: 9px 21px 9px 22px;
+  display: flex;
+  align-items: center;
+}
+.all {
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+}
+.r18 {
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  color: rgba(189, 189, 189, 1);
+  margin-top: 14px;
+}
+.flexWrapperFifteen {
+  margin-bottom: 12px;
+  padding: 0 0 0 414px;
+  display: flex;
+  align-items: center;
+}
+.worksByUsersYouAreFollowing {
+  width: 313px;
+  font-family: "Segoe UI";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  color: rgba(79, 79, 79, 1);
+  margin-right: 981px;
+}
+.seeAll {
+  width: 40px;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  color: rgba(130, 130, 130, 1);
+}
+.flexWrapperSixteen {
+  margin-bottom: 4px;
+  padding: 0 0 0 414px;
+  display: flex;
+  align-items: flex-start;
+}
+.flexWrapperSeven {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/5aafc006-f3c2-495a-85f1-4cf47929b0d7.png");
+  margin-right: 1133px;
+  border-radius: 8px;
+  padding: 157.5px 4px 4.57px 156px;
+  position: relative;
+}
+.vectorTwo {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.vectorThree {
+  width: 10.87%;
+  height: 9.74%;
+  position: absolute;
+  left: 158px;
+  top: 159.5px;
+}
+.vec2 {
+  width: 54px;
+  height: 56px;
+  margin-top: 77px;
+  border-radius: 170px 170px 150px 150px;
+}
+.xia {
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+  margin-bottom: 4px;
+  margin-left: 414px;
+}
+.flexWrapperSeventeen {
+  margin-bottom: 69px;
+  padding: 0 0 0 414px;
+  display: flex;
+  align-items: center;
+}
+.rectangleTwo {
+  width: 24px;
+  height: 24px;
+  margin-right: 14px;
+  border-radius: 12px;
+}
+.pixiv {
+  width: 70px;
+  font-family: "Segoe UI";
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+}
+.recommendedWorks {
+  width: 202px;
+  font-family: "Segoe UI";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  color: rgba(79, 79, 79, 1);
+  margin-bottom: 12px;
+  margin-left: 415px;
+}
+.flexWrapperEight {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/4a5297a0-6edb-440b-8e26-961f682e3c67.png");
+  margin-bottom: 4px;
+  margin-left: 415px;
+  border-radius: 8px;
+  padding: 157.5px 4px 4.57px 156px;
+  position: relative;
+}
+.font2 {
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+  margin-bottom: 4px;
+  margin-left: 415px;
+}
+.flexWrapperEighteen {
+  padding: 0 0 0 415px;
+  display: flex;
+  align-items: center;
+  &:not(:last-of-type) {
+    margin-bottom: 100px;
+  }
+}
+.rectangleThree {
+  width: 24px;
+  height: 24px;
+  margin-right: 4px;
+  border-radius: 12px;
+}
+.font3 {
+  width: 42px;
+  font-family: "Segoe UI";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+}
+.dailyRanking {
+  width: 81px;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(130, 130, 130, 1);
+  margin-left: 415px;
+}
+.flexWrapperNineteen {
+  margin-bottom: 12px;
+  padding: 0 0 0 415px;
+  display: flex;
+  align-items: flex-start;
+}
+.jul27thRanking {
+  width: 153px;
+  font-family: "Segoe UI";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  color: rgba(51, 51, 51, 1);
+  margin-right: 1142px;
+}
+.flexWrapperTwenty {
+  margin-bottom: 4px;
+  padding: 0 0 0 415px;
+  display: flex;
+  align-items: flex-start;
+}
+.flexWrapperNine {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/dbbcf239-035d-43e4-ad6c-4dd4aae4679f.png");
+  margin-right: 1043px;
+  border-radius: 8px;
+  padding: 4px 4px 4.57px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flexWrapperEleven {
+  background-color: rgba(215, 187, 73, 1);
+  margin-bottom: 217.5px;
+  border-radius: 20px;
+  padding: 8px 16px 8px 15px;
+  display: flex;
+  align-items: center;
+}
+.num1 {
+  width: 9px;
+  font-family: "Segoe UI";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  color: white;
+}
+.flexWrapperTen {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/fbb46f44-407e-4e18-bfcc-40853a55a608.svg");
+  margin-left: 256px;
+  padding: 2px;
+  display: flex;
+  align-items: center;
+}
+.vectorFour {
+  flex: 1;
+  align-self: stretch;
+  object-fit: cover;
+}
+.vec1 {
+  width: 54px;
+  height: 56px;
+  margin-top: 148px;
+  border-radius: 170px 170px 150px 150px;
+}
+.font4 {
+  width: 56px;
+  font-family: "Segoe UI";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+}
+.font5 {
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+  margin-bottom: 4px;
+  margin-left: 415px;
+}
+
+
+
+
+
+
+
+
+
+/*
+.home {
+  background-color: white;
+  overflow: hidden;
+  padding: 32px 23px 116px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+.topbar {
+  margin-bottom: 192px;
+  display: flex;
+  align-items: flex-start;
+}
+.leftTopBar {
+  margin-right: 617px;
+  display: flex;
+  align-items: center;
+}
+.frame4 {
+  margin-right: 12px;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+}
+.frame {
+  padding: 6px 4px;
+  display: flex;
+  align-items: center;
+}
+.vector {
+  flex: 1;
+  align-self: stretch;
+  object-fit: cover;
+}
+.frameTwo {
+  padding: 0 28.2px 0 1px;
+  display: flex;
+  align-items: flex-start;
+}
+.logo {
+  width: 140.8px;
+  height: 32px;
+}
+.searchBar {
+  background-color: rgba(242, 242, 242, 1);
+  margin-right: 497px;
+  border-radius: 4px;
+  padding: 9px 407px 9px 13px;
+  display: flex;
+  align-items: center;
+}
+.frameThree {
+  margin-right: 10px;
+  padding: 3px 1px 1.5px 3.5px;
+  display: flex;
+  align-items: center;
+}
+.searchWorks {
+  width: 75.93%;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(189, 189, 189, 1);
+  align-self: stretch;
+}
+.rightTopBar {
+  display: flex;
+  align-items: flex-start;
+}
+.frame1 {
+  background-color: rgba(242, 242, 242, 1);
+  margin-right: 16px;
+  border-radius: 2254px;
+  padding: 7px 24px 11px 20px;
+  display: flex;
+  align-items: flex-start;
+}
+.postYourWork {
+  width: 84.62%;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 22px;
+  color: rgba(79, 79, 79, 1);
+  align-self: stretch;
+  text-align: center;
+  margin-right: 8px;
+}
+.frameFour {
+  margin-top: 9px;
+  padding: 1.25px 0.25px 0.59px;
+  display: flex;
+  align-items: center;
+}
+.flexWrapperOne {
+  margin-right: 8px;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+}
+.frameFive {
+  padding: 5px 3px;
+  display: flex;
+  align-items: center;
+}
+.flexWrapperTwo {
+  margin-right: 16px;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+}
+.frameSix {
+  padding: 3px 4.38px 3px 4.39px;
+  display: flex;
+  align-items: center;
+}
+.frame3 {
+  display: flex;
+  align-items: center;
+}
+.rectangle {
+  width: 40px;
+  height: 40px;
+  margin-right: 4px;
+}
+.frameSeven {
+  padding: 5.75px 3.25px 4.09px;
+  display: flex;
+  align-items: center;
+}
+.relativeWrapperSix {
+  margin-bottom: 37px;
+  margin-left: 426.67px;
+  position: relative;
+}
+.rectangleTwo {
+  width: 137px;
+  height: 46px;
+  position: absolute;
+  left: 0.33px;
+  bottom: -1px;
+}
+.rectangleThree {
+  width: 100px;
+  height: 46px;
+  position: absolute;
+  left: 137.33px;
+  bottom: -1px;
+}
+.rectangleFour {
+  width: 99px;
+  height: 46px;
+  position: absolute;
+  left: 237.33px;
+  bottom: -1px;
+}
+.flexWrapperThirtyFive {
+  position: relative;
+}
+.rectangleFive {
+  width: 79px;
+  height: 40px;
+  border-radius: 2000px;
+  position: absolute;
+  right: 121px;
+  top: 7px;
+}
+.tabs {
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+}
+.tab {
+  margin-right: 888px;
+  padding: 0 106.33px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+.rectangleSix {
+  width: 137.36px;
+  height: 4px;
+  background-color: rgba(0, 150, 250, 1);
+  margin-bottom: 13px;
+}
+.flexWrapperThirtySix {
+  padding: 0 0 0 12.33px;
+  display: flex;
+  align-items: flex-start;
+}
+.illustrations {
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  color: rgba(51, 51, 51, 1);
+  margin-right: 46px;
+}
+.manga {
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  color: rgba(189, 189, 189, 1);
+}
+.novels {
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  color: rgba(189, 189, 189, 1);
+  position: absolute;
+  right: -7px;
+  bottom: 0;
+}
+.frame12 {
+  margin-top: 9px;
+  padding: 0 7px 0 0;
+  display: flex;
+  align-items: center;
+}
+.frame11 {
+  background-color: rgba(242, 242, 242, 1);
+  margin-right: 32px;
+  border-radius: 2000px;
+  padding: 9px 21px 9px 22px;
+  display: flex;
+  align-items: center;
+}
+.all {
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+}
+.r18 {
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  color: rgba(189, 189, 189, 1);
+}
+.followedWorks {
+  margin-left: 427px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  &:not(:last-of-type) {
+    margin-bottom: 100px;
+  }
+}
+.flexWrapperThirtySeven {
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+}
+.worksByUsersYouAreFollowing {
+  width: 313px;
+  font-family: "Segoe UI";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  color: rgba(79, 79, 79, 1);
+  margin-right: 981px;
+}
+.seeAll {
+  width: 40px;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  color: rgba(130, 130, 130, 1);
+}
+.frame17 {
+  margin-right: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flexWrapperThree {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/a343df38-e851-4378-bc8c-ce355388e963.png");
+  margin-bottom: 4px;
+  border-radius: 8px;
+  padding: 152px 0 0 152px;
+  display: flex;
+  align-items: flex-start;
+}
+.frameEight {
+  width: 32px;
+  height: 32px;
+}
+. {
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+  margin-bottom: 4px;
+}
+.rectangleSeven {
+  width: 24px;
+  height: 24px;
+  margin-right: 14px;
+  border-radius: 12px;
+}
+.pixiv {
+  width: 70px;
+  font-family: "Segoe UI";
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+}
+.flexWrapperFour {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/c79c6190-8b64-402e-ad89-7b94eec36bc7.png");
+  margin-bottom: 4px;
+  border-radius: 8px;
+  padding: 4px 0 0 145px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame13 {
+  background-color: rgba(0, 0, 0, 0.49);
+  margin-bottom: 128px;
+  border-radius: 10px;
+  padding: 5px 5px 5px 6px;
+  display: flex;
+  align-items: center;
+}
+.frameNine {
+  margin-right: 3px;
+  padding: 1px 0 0;
+  display: flex;
+  align-items: center;
+}
+.num16 {
+  width: 12px;
+  font-family: "Segoe UI";
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 10px;
+  color: rgba(255, 255, 255, 0.82);
+}
+.frameTen {
+  width: 32px;
+  height: 32px;
+  margin-left: 7px;
+}
+.flexWrapperFive {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/c2fe6a88-7608-431c-ba53-c8ac9328bdce.png");
+  margin-bottom: 4px;
+  border-radius: 8px;
+  padding: 4px 0 0 148px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame14 {
+  background-color: rgba(0, 0, 0, 0.49);
+  margin-bottom: 128px;
+  border-radius: 10px;
+  padding: 5px 8px 5px 6px;
+  display: flex;
+  align-items: center;
+}
+.num4 {
+  font-family: "Segoe UI";
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 10px;
+  color: rgba(255, 255, 255, 0.82);
+}
+.frameEleven {
+  width: 32px;
+  height: 32px;
+  margin-left: 4px;
+}
+.rectangleEight {
+  width: 24px;
+  height: 24px;
+  margin-right: 4px;
+  border-radius: 12px;
+}
+.flexWrapperSix {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/77971446-1f53-4852-a9f6-fa1064e58724.png");
+  margin-bottom: 4px;
+  border-radius: 8px;
+  padding: 4px 0 0 148px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+. {
+  width: 126px;
+  font-family: "Segoe UI";
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+  margin-bottom: 4px;
+}
+.flexWrapperSeven {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/b57f93ca-eb99-48cc-bf5a-90b33cee9dce.png");
+  margin-bottom: 4px;
+  border-radius: 8px;
+  padding: 4px 0 0 145px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame22 {
+  margin-right: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flexWrapperEight {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/2f716fce-e86d-4498-89a4-1d8e5e287d11.png");
+  margin-bottom: 4px;
+  border-radius: 8px;
+  padding: 152px 0 0 152px;
+  display: flex;
+  align-items: flex-start;
+}
+.pixivTwo {
+  width: 70px;
+  font-family: "Segoe UI";
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+  position: absolute;
+  left: 28px;
+  bottom: 2px;
+}
+.num822 {
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+  position: absolute;
+  left: 6px;
+  bottom: 28px;
+}
+.rectangleNine {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  border-radius: 12px;
+}
+.rectangleTen {
+  width: 184px;
+  height: 184px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 8px;
+}
+.rectangle1 {
+  width: 213px;
+  height: 266px;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 0%,
+    white 57%
+  );
+  margin-left: -14px;
+  position: relative;
+}
+.slideRight {
+  background-color: rgba(0, 0, 0, 0.32);
+  border-radius: 50%;
+  padding: 13px;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  right: 57px;
+  top: 77px;
+}
+.frameTwelve {
+  padding: 6.5px 1.5px 13.17px 11.5px;
+  display: flex;
+  align-items: flex-start;
+}
+.vectorTwo {
+  height: 100%;
+  flex: 1;
+  object-fit: cover;
+}
+.recommendedWorks {
+  width: 202px;
+  font-family: "Segoe UI";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  color: rgba(79, 79, 79, 1);
+  margin-bottom: 12px;
+}
+.frame24 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  &:not(:last-of-type) {
+    margin-right: 24px;
+  }
+}
+.flexWrapperNine {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/27ba9dba-737b-4ed4-bcb3-f5638ea488b4.png");
+  margin-bottom: 4px;
+  border-radius: 8px;
+  padding: 152px 0 0 152px;
+  display: flex;
+  align-items: flex-start;
+}
+.nengoro {
+  width: 134px;
+  font-family: "Segoe UI";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+}
+.flexWrapperTen {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/785b5a12-3e37-4204-a6aa-dbca7889de35.png");
+  margin-bottom: 4px;
+  border-radius: 8px;
+  padding: 152px 0 0 152px;
+  display: flex;
+  align-items: flex-start;
+}
+.arsenixc {
+  width: 55px;
+  font-family: "Segoe UI";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+}
+.flexWrapperEleven {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/edba679e-192b-4545-8ddd-2d1c4d2064b0.png");
+  margin-bottom: 4px;
+  border-radius: 8px;
+  padding: 152px 0 0 152px;
+  display: flex;
+  align-items: flex-start;
+}
+. {
+  width: 42px;
+  font-family: "Segoe UI";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+}
+.flexWrapperTwelve {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/cd3206cd-948e-41f8-974c-77c641e689f5.png");
+  margin-bottom: 4px;
+  border-radius: 8px;
+  padding: 152px 0 0 152px;
+  display: flex;
+  align-items: flex-start;
+}
+.dailyRanking {
+  width: 81px;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(130, 130, 130, 1);
+}
+.flexWrapperFortyEight {
+  display: flex;
+  align-items: flex-start;
+  &:not(:last-of-type) {
+    margin-bottom: 12px;
+  }
+}
+.jul27thRanking {
+  width: 153px;
+  font-family: "Segoe UI";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  color: rgba(51, 51, 51, 1);
+  margin-right: 1142px;
+}
+.flexWrapperThirteen {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/c605cdfa-3bb9-4f86-840e-7473f52f4b07.png");
+  margin-bottom: 4px;
+  border-radius: 8px;
+  padding: 4px 0 0 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flexWrapperFourteen {
+  background-color: rgba(215, 187, 73, 1);
+  margin-bottom: 212px;
+  border-radius: 20px;
+  padding: 8px 16px 8px 15px;
+  display: flex;
+  align-items: center;
+}
+.num1 {
+  width: 9px;
+  font-family: "Segoe UI";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  color: white;
+}
+.frameThirteen {
+  width: 32px;
+  height: 32px;
+  margin-left: 252px;
+}
+. {
+  width: 56px;
+  font-family: "Segoe UI";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+}
+.flexWrapperFifteen {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/070d0ddb-7dbc-45c6-97fc-ce2c92fccf31.png");
+  margin-bottom: 4px;
+  border-radius: 8px;
+  padding: 4px 0 0 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flexWrapperSixteen {
+  background-color: rgba(133, 133, 133, 1);
+  margin-bottom: 212px;
+  border-radius: 20px;
+  padding: 8px 16px 8px 15px;
+  display: flex;
+  align-items: center;
+}
+.flexWrapperSeventeen {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/4976838e-5914-4778-bbb6-e6957d38c575.png");
+  margin-bottom: 4px;
+  border-radius: 8px;
+  padding: 4px 0 0 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flexWrapperEighteen {
+  background-color: rgba(200, 161, 126, 1);
+  margin-bottom: 212px;
+  border-radius: 20px;
+  padding: 8px 16px 8px 15px;
+  display: flex;
+  align-items: center;
+}
+. {
+  width: 28px;
+  font-family: "Segoe UI";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+}
+.flexWrapperNineteen {
+  background-size: 100% 100%;
+  background-position: center;
+  background-image: url("https://static.overlay-tech.com/assets/106453e1-51cd-45c4-ae23-5f32c089f241.png");
+  margin-bottom: 4px;
+  border-radius: 8px;
+  padding: 4px 0 0 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flexWrapperTwenty {
+  background-color: rgba(0, 0, 0, 0.32);
+  margin-bottom: 212px;
+  border-radius: 20px;
+  padding: 8px 16px 8px 15px;
+  display: flex;
+  align-items: center;
+}
+.num6 {
+  width: 64px;
+  font-family: "Segoe UI";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+}
+.frame29 {
+  overflow: hidden;
+  padding: 0 0 54px;
+  position: relative;
+}
+.relativeWrapperTwo {
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  left: -10px;
+  top: -26px;
+}
+.num6Two {
+  width: 64px;
+  font-family: "Segoe UI";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+  position: absolute;
+  left: 38px;
+  bottom: -25px;
+}
+. {
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 22px;
+  color: rgba(51, 51, 51, 1);
+  position: absolute;
+  left: 10px;
+  bottom: 2px;
+}
+.rectangleEleven {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 10px;
+  bottom: -26px;
+  border-radius: 12px;
+}
+.rectangle2 {
+  width: 326px;
+  height: 379px;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 0%,
+    white 36%
+  );
+  position: relative;
+}
+.rectangleTwelve {
+  width: 288px;
+  height: 288px;
+  position: relative;
+  border-radius: 8px;
+}
+.rectangleThirteen {
+  width: 40px;
+  height: 40px;
+  background-color: rgba(0, 0, 0, 0.32);
+  border-radius: 20px;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+}
+.num5 {
+  width: 9px;
+  font-family: "Segoe UI";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  color: white;
+  position: absolute;
+  left: 19px;
+  top: 12px;
+}
+.slideRightTwo {
+  background-color: rgba(0, 0, 0, 0.32);
+  border-radius: 50%;
+  padding: 13px;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 74px;
+  top: 135px;
+}
+.tags {
+  display: flex;
+  align-items: flex-start;
+  position: absolute;
+  right: -280px;
+  top: 188px;
+}
+.flexWrapperTwentyOne {
+  background-color: rgba(126, 140, 200, 1);
+  margin-right: 8px;
+  border-radius: 4px;
+  padding: 9px 24px;
+  display: flex;
+  align-items: center;
+}
+.original {
+  width: 61px;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  color: white;
+  text-align: center;
+}
+.flexWrapperTwentyTwo {
+  background-color: rgba(126, 135, 200, 1);
+  margin-right: 8px;
+  border-radius: 4px;
+  padding: 21px 24px 5px;
+  position: relative;
+}
+.girl {
+  width: 19px;
+  font-family: "Segoe UI";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  color: white;
+  text-align: center;
+  position: absolute;
+  left: 32px;
+  top: 3px;
+}
+.nv {
+  width: 36px;
+  font-family: "Segoe UI";
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 14px;
+  color: white;
+  text-align: center;
+  position: relative;
+}
+.flexWrapperTwentyThree {
+  background-color: rgba(126, 170, 200, 1);
+  margin-right: 8px;
+  border-radius: 4px;
+  padding: 3px 27px 17px;
+  position: relative;
+}
+.surtrArknights {
+  width: 96px;
+  font-family: "Segoe UI";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  color: white;
+  text-align: center;
+  position: relative;
+}
+.sur {
+  width: 102px;
+  font-family: "Segoe UI";
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 14px;
+  color: white;
+  text-align: center;
+  position: absolute;
+  left: 24px;
+  bottom: 5px;
+}
+.flexWrapperTwentyFour {
+  background-color: rgba(200, 126, 135, 1);
+  margin-right: 8px;
+  border-radius: 4px;
+  padding: 3px 24px 17px;
+  position: relative;
+}
+.traditional {
+  width: 59px;
+  font-family: "Segoe UI";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  color: white;
+  text-align: center;
+  position: relative;
+}
+. {
+  width: 46px;
+  font-family: "Segoe UI";
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 14px;
+  color: white;
+  text-align: center;
+  position: absolute;
+  left: 30px;
+  bottom: 5px;
+}
+.flexWrapperTwentyFive {
+  background-color: rgba(200, 126, 175, 1);
+  margin-right: 8px;
+  border-radius: 4px;
+  padding: 3px 26px 17px 25px;
+  position: relative;
+}
+.naritaburaiann {
+  width: 83px;
+  font-family: "Segoe UI";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  color: white;
+  text-align: center;
+  position: relative;
+}
+. {
+  width: 86px;
+  font-family: "Segoe UI";
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 14px;
+  color: white;
+  text-align: center;
+  position: absolute;
+  left: 24px;
+  bottom: 5px;
+}
+.flexWrapperTwentySix {
+  background-color: rgba(126, 200, 151, 1);
+  margin-right: 7px;
+  border-radius: 4px;
+  padding: 3px 24px 17px;
+  position: relative;
+}
+.touhoupurojekuto {
+  width: 104px;
+  font-family: "Segoe UI";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  color: white;
+  text-align: center;
+  position: relative;
+}
+.project {
+  width: 57px;
+  font-family: "Segoe UI";
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 14px;
+  color: white;
+  text-align: center;
+  position: absolute;
+  left: 47px;
+  bottom: 5px;
+}
+.flexWrapperTwentySeven {
+  background-color: rgba(200, 184, 126, 1);
+  margin-right: 9px;
+  border-radius: 4px;
+  padding: 9px 24px;
+  display: flex;
+  align-items: center;
+}
+.newgame {
+  width: 86px;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  color: white;
+  text-align: center;
+}
+.flexWrapperTwentyEight {
+  background-color: rgba(148, 200, 126, 1);
+  margin-right: 8px;
+  border-radius: 4px;
+  padding: 3px 24px 17px;
+  position: relative;
+}
+.toukenRanbu {
+  width: 80px;
+  font-family: "Segoe UI";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  color: white;
+  text-align: center;
+  position: relative;
+}
+. {
+  width: 46px;
+  font-family: "Segoe UI";
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 14px;
+  color: white;
+  text-align: center;
+  position: absolute;
+  left: 41px;
+  bottom: 5px;
+}
+.flexWrapperTwentyNine {
+  background-color: rgba(126, 175, 200, 1);
+  margin-right: 8px;
+  border-radius: 4px;
+  padding: 3px 28px 17px;
+  position: relative;
+}
+.superMario {
+  width: 68px;
+  font-family: "Segoe UI";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  color: white;
+  text-align: center;
+  position: relative;
+}
+. {
+  width: 76px;
+  font-family: "Segoe UI";
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 14px;
+  color: white;
+  text-align: center;
+  position: absolute;
+  left: 24px;
+  bottom: 5px;
+}
+.flexWrapperThirty {
+  background-color: rgba(157, 200, 126, 1);
+  border-radius: 4px;
+  padding: 9px 24px;
+  display: flex;
+  align-items: center;
+  &:not(:last-of-type) {
+    margin-right: 7px;
+  }
+}
+.genshinImpact {
+  width: 107px;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  color: white;
+  text-align: center;
+}
+.flexWrapperThirtyThree {
+  background-color: rgba(148, 200, 126, 1);
+  margin-right: 36px;
+  border-radius: 4px;
+  padding: 3px 24px 17px;
+  position: relative;
+}
+.relativeWrapperFive {
+  margin-top: 3px;
+  margin-right: 36px;
+  position: relative;
+}
+. {
+  width: 76px;
+  font-family: "Segoe UI";
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 14px;
+  color: white;
+  text-align: center;
+  position: absolute;
+  left: -4px;
+  bottom: -12px;
+} */
