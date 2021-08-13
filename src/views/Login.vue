@@ -4,9 +4,9 @@
       <v-container>
         <v-row>
           <v-col>
-            <v-sheet min-height="70vh" rounded="lg">
-              <div class="text-center">
-                <v-col class="pt-15" cols="12">
+            <v-sheet class="pt-16" min-height="70vh" rounded="lg">
+              <div class="pt-16 text-center">
+                <v-col class="pt-16" cols="12">
                   <v-img
                     :src="require('../assets/yumeket.svg')"
                     class="my-3"
@@ -40,6 +40,9 @@
                     />
                   </v-btn>
                 </v-col>
+                <!-- <v-col class="mt-8">
+                  <v-divider></v-divider>
+                </v-col> -->
               </div>
             </v-sheet>
           </v-col>

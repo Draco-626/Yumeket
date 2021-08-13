@@ -1,21 +1,21 @@
 <template>
   <v-app id="inspire">
-    <v-app-bar app class="white">
+    <v-app-bar flat app class="white">
       <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
-      <v-toolbar-title
-        ><v-img
-          style="margin-left: -1rem !important"
-          :src="require('../assets/yumeket.svg')"
-          contain
-          height="30"
-      /></v-toolbar-title>
+      <v-img
+        class="mx-4"
+        :src="require('../assets/yumeket.svg')"
+        contain
+        max-height="3vh"
+        position="center left"
+      />
     </v-app-bar>
 
     <v-navigation-drawer v-model="drawer" fixed temporary>
       <!--  -->
     </v-navigation-drawer>
 
-    <v-main class="grey lighten-2">
+    <v-main class="lighten-2">
       <v-container>
         <v-row>
           <template v-for="n in 4">
@@ -36,5 +36,8 @@
 <script>
 export default {
   data: () => ({ drawer: null }),
+  mounted() {
+    this.$title = "Home";
+  },
 };
 </script>
